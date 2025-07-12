@@ -50,6 +50,3 @@ let sole = [1,3,5,7];
 let random = [10,20,30];
 let chuoi = sochan.concat(sole,random); // nói chuỗi
 console.log(chuoi);
-
-
-1223
